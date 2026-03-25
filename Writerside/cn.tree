@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="cn"
+                 name="C Notes"
+                 start-page="01-Introduction.md">
+
+    <toc-element topic="01-Introduction.md"/>
+    <toc-element topic="02-output-formatting.md"/>
+    <toc-element topic="03-pointers.md"/>
+    <toc-element topic="04-creating-header-file.md"/>
+    <toc-element topic="05-miscellaneous.md"/>
+    <toc-element topic="06-bitwise-operations.md"/>
+</instance-profile>
